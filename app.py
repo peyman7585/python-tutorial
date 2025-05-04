@@ -11,7 +11,7 @@ course_name = "Python Programming"
 
 # Name = input("What is your name?!")
 
-#print("Hello," + Name + "! Welcome to python programming")
+# print("Hello," + Name + "! Welcome to python programming")
 
 greeting = "Hello"
 subject = "World"
@@ -97,4 +97,4 @@ y = 5
 
 difference = abs(x - y)
 
-print("The absolute difference between ", x, "and", y, "is", difference )
+print("The absolute difference between ", x, "and", y, "is", difference)
